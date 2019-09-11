@@ -43,5 +43,5 @@ group :development, :test do
   gem 'spring'
 end
 
-gem "devise"
+gem "devise", ">= 4.7.1"
 gem 'cancancan', '~> 1.10'
